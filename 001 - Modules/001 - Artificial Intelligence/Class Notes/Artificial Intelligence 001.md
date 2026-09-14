@@ -29,5 +29,6 @@ ____
 **Introduction Link:** https://docs.n8n.io/choose-how-to-use-n8n
 **Self-Hosting Link:** https://docs.n8n.io/deploy/host-n8n
 
-The way this works is extremely similar to how PowerApps works (PTSD????)
-Requires a trigger, can call APIs, etc.
+- The way this works is extremely similar to how PowerApps works (PTSD????)
+- Requires a trigger, can call APIs, etc.
+- If you want to create an AI Agent, you will need to provide it with an API key from an LLM. The storage for this will be in [[API Keys]].
