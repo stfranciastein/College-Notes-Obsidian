@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "315f77e3912b2396",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dac714a278d3c7c",
+        "type": "tabs",
+        "dimension": 74.55583756345177,
+        "children": [
+          {
+            "id": "6840d5e6e90ff55b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - Modules/001 - Artificial Intelligence/Class Notes/Artificial Intelligence 001.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artificial Intelligence 001"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1730f2d6bebc091f",
+        "type": "tabs",
+        "dimension": 25.444162436548222,
+        "children": [
+          {
+            "id": "cf114510b93ae27d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "435c1a52f563bfa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff869e846ee32946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc39e8cef474487a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d5d982a24a95a0f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ab5c6b14414d259",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "640749862bd8bfed",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5eea86946dd741a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fafc5c5dedb4037c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001 - Modules/001 - Artificial Intelligence/Class Notes/Artificial Intelligence 001.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "80164e40950dd44d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001 - Modules/001 - Artificial Intelligence/Class Notes/Artificial Intelligence 001.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5e669429c01584d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6332be67493e376f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "10ca57eee019524c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001 - Modules/001 - Artificial Intelligence/Class Notes/Artificial Intelligence 001.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cf114510b93ae27d",
+  "lastOpenFiles": [
+    "001 - Modules/001 - Artificial Intelligence/Class Notes/Artificial Intelligence 001.md",
+    "001 - Modules/003 - Thesis Research Class",
+    "001 - Modules/002 - Web Development",
+    "001 - Modules/001 - Artificial Intelligence/Class Notes",
+    "001 - Modules/AI/Untitled.md",
+    "001 - Modules",
+    "001 - Modules/001 - Artificial Intelligence",
+    "Welcome.md"
+  ]
+}
