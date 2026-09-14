@@ -1,4 +1,4 @@
-Here's a bunch of your passwords that you probably don't give a shit about.
+Non-sensitive passwords for accounts.
 
 | Website | E-Mail Address/Username | Password       |
 | ------- | ----------------------- | -------------- |
