@@ -26,3 +26,8 @@ CA2 - 60% - Deadline Week 15
 ____
 ### N8N
 
+**Introduction Link:** https://docs.n8n.io/choose-how-to-use-n8n
+**Self-Hosting Link:** https://docs.n8n.io/deploy/host-n8n
+
+The way this works is extremely similar to how PowerApps works (PTSD????)
+Requires a trigger, can call APIs, etc.

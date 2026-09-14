@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "Artificial Intelligence 001"
             }
+          },
+          {
+            "id": "14217a57c83158c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - Modules/001 - Artificial Intelligence/Class Notes/Artificial Intelligence 001.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artificial Intelligence 001"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1730f2d6bebc091f",
@@ -187,13 +202,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "3828117a82e6c2a4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,12 +228,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf114510b93ae27d",
+  "active": "14217a57c83158c7",
   "lastOpenFiles": [
+    "Passwords and Shit.md",
     "001 - Modules/001 - Artificial Intelligence/Class Notes/Artificial Intelligence 001.md",
+    "000 - Other",
     "001 - Modules/003 - Thesis Research Class",
     "001 - Modules/002 - Web Development",
     "001 - Modules/001 - Artificial Intelligence/Class Notes",
