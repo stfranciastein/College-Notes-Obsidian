@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - Modules/001 - Artificial Intelligence/Class Notes/Artificial Intelligence 001.md",
+                "file": "API Keys and Shit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Artificial Intelligence 001"
+              "title": "API Keys and Shit"
             }
           }
         ],
@@ -48,10 +48,14 @@
             "id": "cf114510b93ae27d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Passwords and Shit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Passwords and Shit"
             }
           }
         ]
@@ -218,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 222.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,6 +239,7 @@
   "active": "14217a57c83158c7",
   "lastOpenFiles": [
     "Passwords and Shit.md",
+    "API Keys and Shit.md",
     "001 - Modules/001 - Artificial Intelligence/Class Notes/Artificial Intelligence 001.md",
     "000 - Other",
     "001 - Modules/003 - Thesis Research Class",
