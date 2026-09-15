@@ -6,7 +6,6 @@
       {
         "id": "4dac714a278d3c7c",
         "type": "tabs",
-        "dimension": 62.481536189069416,
         "children": [
           {
             "id": "6840d5e6e90ff55b",
@@ -21,25 +20,23 @@
               "icon": "lucide-file",
               "title": "001 - Week 1"
             }
-          }
-        ]
-      },
-      {
-        "id": "4aa6c18588c6c903",
-        "type": "tabs",
-        "dimension": 37.51846381093058,
-        "children": [
+          },
           {
-            "id": "a8c35b8ef0f4ed63",
+            "id": "6bf5fae4be45a5bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "001 - Modules/002 - Web Development + Delivery/Class Notes/002 - Week 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "002 - Week 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,9 +214,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3828117a82e6c2a4",
+  "active": "6bf5fae4be45a5bd",
   "lastOpenFiles": [
     "001 - Modules/002 - Web Development + Delivery/Class Notes/001 - Week 1.md",
+    "001 - Modules/002 - Web Development + Delivery/Class Notes/002 - Week 1.md",
     "001 - Modules/001 - Artificial Intelligence/Class Notes/001 - Week 1.md",
     "000 - Other/Passwords Vault (Non-Sensitive).md",
     "API Keys (Non-Sensitive).md",
