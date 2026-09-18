@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6840d5e6e90ff55b",
+            "id": "702e6c0a48500989",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - Modules/003 - Research + Analytics/Class Notes/002 - Week 1.md",
+                "file": "001 - Modules/003 - Research + Analytics/Class Notes/003 - Week 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 - Week 1"
+              "title": "003 - Week 1"
+            }
+          },
+          {
+            "id": "510ed6f0aa2ded62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - Modules/003 - Research + Analytics/Class Notes/003 - Week 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "003 - Week 1"
             }
           }
         ]
@@ -199,14 +213,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6840d5e6e90ff55b",
+  "active": "702e6c0a48500989",
   "lastOpenFiles": [
-    "001 - Modules/003 - Research + Analytics/Class Notes/001 - Week 1.md",
+    "001 - Modules/Project I-Deez.md",
+    "001 - Modules/003 - Research + Analytics/Class Notes/003 - Week 1.md",
     "001 - Modules/003 - Research + Analytics/Class Notes/002 - Week 1.md",
-    "000 - Other/Timetable in Text.md",
+    "001 - Modules/003 - Research + Analytics/Class Notes/001 - Week 1.md",
     "001 - Modules/002 - Web Development + Delivery/Class Notes/003 - Week 1.md",
-    "001 - Modules/002 - Web Development + Delivery/Class Notes/001 - Week 1.md",
     "001 - Modules/002 - Web Development + Delivery/Class Notes/002 - Week 1.md",
+    "001 - Modules/002 - Web Development + Delivery/Class Notes/001 - Week 1.md",
+    "000 - Other/Timetable in Text.md",
     "001 - Modules/003 - Research + Analytics/Class Notes",
     "001 - Modules/003 - Research + Analytics",
     "Cross-Origin.md",
