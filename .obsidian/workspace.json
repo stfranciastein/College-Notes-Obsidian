@@ -13,29 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - Modules/001 - Artificial Intelligence/Class Notes/005 - Week 2.md",
+                "file": "001 - Modules/001 - Artificial Intelligence/Class Notes/006 - Week 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005 - Week 2"
+              "title": "006 - Week 2"
             }
           },
           {
-            "id": "510ed6f0aa2ded62",
+            "id": "ea46e57626e90f94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - Modules/003 - Research + Analytics/Class Notes/003 - Week 1.md",
+                "file": "001 - Modules/001 - Artificial Intelligence/Class Notes/006 - Week 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003 - Week 1"
+              "title": "006 - Week 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,23 +214,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "702e6c0a48500989",
+  "active": "ea46e57626e90f94",
   "lastOpenFiles": [
+    "001 - Modules/002 - Web Development + Delivery/Class Notes/005 - Week 2.md",
+    "001 - Modules/002 - Web Development + Delivery/Class Notes/003 - Week 1.md",
+    "001 - Modules/003 - Research + Analytics/Class Notes/003 - Week 1.md",
+    "001 - Modules/003 - Research + Analytics/Class Notes/004 - Week 2.md",
+    "00_Setup.md",
+    "001 - Modules/001 - Artificial Intelligence/Class Notes/006 - Week 2.md",
+    "001 - Modules/001 - Artificial Intelligence/Files",
+    "001 - Modules/001 - Artificial Intelligence/Class Notes/005 - Week 2.md",
     "000 - Other/Images/005 - Week 2-1790337208478.webp",
     "Untitled.canvas",
-    "001 - Modules/001 - Artificial Intelligence/Class Notes/005 - Week 2.md",
     "000 - Other/Timetable in Text.md",
     "000 - Other/Passwords Vault (Non-Sensitive).md",
     "001 - Modules/001 - Artificial Intelligence/Class Notes/001 - Week 1.md",
     "001 - Modules/001 - Artificial Intelligence/Class Notes/004 - Week 2.md",
     "001 - Modules/001 - Artificial Intelligence/Class Notes/003 - Week 1.md",
     "001 - Modules/002 - Web Development + Delivery/Class Notes/002 - Week 1.md",
-    "001 - Modules/002 - Web Development + Delivery/Class Notes/003 - Week 1.md",
-    "001 - Modules/002 - Web Development + Delivery/Class Notes/005 - Week 2.md",
     "001 - Modules/002 - Web Development + Delivery/Class Notes/004 - Week 2.md",
     "001 - Modules/003 - Research + Analytics/Class Notes/001 - Week 1.md",
-    "001 - Modules/003 - Research + Analytics/Class Notes/004 - Week 2.md",
-    "001 - Modules/003 - Research + Analytics/Class Notes/003 - Week 1.md",
     "001 - Modules/003 - Research + Analytics/Class Notes/002 - Week 1.md",
     "001 - Modules/002 - Web Development + Delivery/Class Notes/001 - Week 1.md",
     "001 - Modules/001 - Artificial Intelligence/Class Notes/002 - Week 1.md",
@@ -250,8 +254,6 @@
     "001 - Modules/002 - Web Development and Development/Untitled.md",
     "001 - Modules/002 - Web Development + Delivery/Class Notes",
     "000 - Other",
-    "001 - Modules/003 - Thesis Research Class",
-    "001 - Modules/AI/Untitled.md",
-    "Welcome.md"
+    "001 - Modules/AI/Untitled.md"
   ]
 }
